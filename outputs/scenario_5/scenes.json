@@ -1,0 +1,117 @@
+[
+  {
+    "page": 1,
+    "total_pages": 3,
+    "location": "kebun bunga liar warna-warni dan semak rimbun",
+    "time_and_weather": "malam bertabur bintang",
+    "atmosphere": "penasaran dan penuh petualangan",
+    "characters_present": [
+      {
+        "name": "AnonChild_df30a87b",
+        "role": "tokoh_utama",
+        "character_type": "hewan",
+        "action": "menatap keindahan alam sekitar dengan takjub",
+        "expression": "terpesona",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "bulu putih lebat, jas rompi kuning, memegang arloji saku rantai",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "buket bunga liar"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  {
+    "page": 2,
+    "total_pages": 3,
+    "location": "kebun bunga liar warna-warni dan semak rimbun",
+    "time_and_weather": "malam bertabur bintang",
+    "atmosphere": "penasaran dan penuh petualangan",
+    "characters_present": [
+      {
+        "name": "AnonChild_df30a87b",
+        "role": "tokoh_utama",
+        "character_type": "hewan",
+        "action": "menatap keindahan alam sekitar dengan takjub",
+        "expression": "terpesona",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "bulu putih lebat, jas rompi kuning, memegang arloji saku rantai",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      },
+      {
+        "name": "Domba Hitam",
+        "role": "pendukung",
+        "character_type": "hewan",
+        "action": "menemani sahabat dengan setia",
+        "expression": "ceria dan penuh rasa ingin tahu",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "clothing": "bulu wol hitam lebat yang hangat",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "buket bunga liar"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  {
+    "page": 3,
+    "total_pages": 3,
+    "location": "kebun bunga liar bersemak rimbun",
+    "time_and_weather": "senja keemasan temaram",
+    "atmosphere": "penasaran dan penuh petualangan",
+    "characters_present": [
+      {
+        "name": "AnonChild_df30a87b",
+        "role": "tokoh_utama",
+        "character_type": "hewan",
+        "action": "tersenyum manis menikmati suasana indah",
+        "expression": "hangat dan bahagia",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "bulu putih lebat, jas rompi kuning, memegang arloji saku rantai",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      },
+      {
+        "name": "Domba Hitam",
+        "role": "pendukung",
+        "character_type": "hewan",
+        "action": "menemani sahabat dengan setia",
+        "expression": "ceria dan penuh rasa ingin tahu",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "clothing": "bulu wol hitam lebat yang hangat",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "elemen alam sekitar (batu sungai & dedaunan)"
+    ],
+    "uncertainty_notes": [
+      "Lokasi spesifik tidak eksplisit di teks; menggunakan pengaturan latar dunia."
+    ],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  }
+]

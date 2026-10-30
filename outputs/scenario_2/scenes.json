@@ -1,0 +1,117 @@
+[
+  {
+    "page": 1,
+    "total_pages": 3,
+    "location": "aliran sungai jernih dengan pepohonan willow",
+    "time_and_weather": "siang hari hangat dengan riak air tenang",
+    "atmosphere": "riang dan damai",
+    "characters_present": [
+      {
+        "name": "AnonChild_760f3f07",
+        "role": "tokoh_utama",
+        "character_type": "hewan",
+        "action": "mendayung perahu kayu kecil di atas air tenang",
+        "expression": "fokus dan riang",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "tubuh hijau bintik ramah, topi baret merah, rompi kotak-kotak",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "perahu kayu cokelat"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  {
+    "page": 2,
+    "total_pages": 3,
+    "location": "aliran sungai jernih dengan pepohonan willow",
+    "time_and_weather": "siang hari hangat dengan riak air tenang",
+    "atmosphere": "riang dan damai",
+    "characters_present": [
+      {
+        "name": "AnonChild_760f3f07",
+        "role": "tokoh_utama",
+        "character_type": "hewan",
+        "action": "menyapa sahabat dengan lambaian tangan hangat",
+        "expression": "ramah dan ceria",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "tubuh hijau bintik ramah, topi baret merah, rompi kotak-kotak",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      },
+      {
+        "name": "Domba Putih",
+        "role": "pendukung",
+        "character_type": "hewan",
+        "action": "menemani sahabat dengan setia",
+        "expression": "ceria dan penuh rasa ingin tahu",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "clothing": "bulu seputih awan, syal oranye",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "elemen alam sekitar (batu sungai & dedaunan)"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  {
+    "page": 3,
+    "total_pages": 3,
+    "location": "aliran sungai jernih dengan pepohonan willow",
+    "time_and_weather": "siang hari hangat dengan riak air tenang",
+    "atmosphere": "riang dan damai",
+    "characters_present": [
+      {
+        "name": "AnonChild_760f3f07",
+        "role": "tokoh_utama",
+        "character_type": "hewan",
+        "action": "melangkah perlahan mengamati alam sekitar",
+        "expression": "santai dan gembira",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "tubuh hijau bintik ramah, topi baret merah, rompi kotak-kotak",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      },
+      {
+        "name": "Domba Putih",
+        "role": "pendukung",
+        "character_type": "hewan",
+        "action": "menemani sahabat dengan setia",
+        "expression": "ceria dan penuh rasa ingin tahu",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "clothing": "bulu seputih awan, syal oranye",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "elemen alam sekitar (batu sungai & dedaunan)"
+    ],
+    "uncertainty_notes": [
+      "Lokasi spesifik tidak eksplisit di teks; menggunakan pengaturan latar dunia."
+    ],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  }
+]

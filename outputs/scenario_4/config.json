@@ -1,0 +1,31 @@
+{
+  "scenario_id": "scenario_4",
+  "category": "Budaya Lokal Nusantara",
+  "premise": "Kirana gadis cilik yang gemar membaca menjelajahi kebun teh dan sungai di kaki gunung Sunda.",
+  "target_age": 9,
+  "moral_theme": "Mencintai kearifan alam dan budaya Nusantara",
+  "character_registry": [
+    {
+      "name": "AnonChild_b77aa6ca",
+      "role": "tokoh_utama",
+      "character_type": "anak",
+      "gender": "perempuan",
+      "age_approx": 9,
+      "fur_or_skin": "cerah",
+      "hair_style": "pendek rapi",
+      "hair_color": "hitam",
+      "clothing": "gaun sederhana bersahaja, membawa buku dongeng bersampul kuning",
+      "accessories": "tas selempang kecil",
+      "default_expression": "ceria dan penuh rasa ingin tahu",
+      "unique_trait": "senyuman hangat dan mata berbinar"
+    }
+  ],
+  "world_settings": {
+    "location": "hamparan perbukitan hijau asri di tatar Sunda",
+    "weather": "pagi berkabut sejuk dengan sinar mentari lembut",
+    "atmosphere": "teduh dan memikat",
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  "pseudonym_applied": "AnonChild_b77aa6ca",
+  "execution_seconds": 20.77
+}

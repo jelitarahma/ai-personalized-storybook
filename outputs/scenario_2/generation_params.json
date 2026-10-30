@@ -1,0 +1,9 @@
+{
+  "max_new_tokens": 140,
+  "strategy": "top_p",
+  "top_k": null,
+  "top_p": 0.9,
+  "temperature": 0.8,
+  "repetition_penalty": 1.2,
+  "seed": 101
+}

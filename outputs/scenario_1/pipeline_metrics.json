@@ -1,0 +1,132 @@
+{
+  "profile": {
+    "name": "Gono",
+    "age": 7,
+    "genre": "Fantasi",
+    "theme": "Keberanian dan Kebaikan Hati",
+    "cultural_background": "Nusantara",
+    "character_preference": "seekor naga kecil hijau yang ramah"
+  },
+  "story": "Di sebuah desa yang damai di Nusantara, hiduplah seekor naga kecil hijau yang ramah bernama Gono. Gono adalah anak berusia 7 tahun yang sangat ceria dan berhati mulia. Ketika ibunya meninggal dunia karena sakit dan mewariskan seluruh harta kekayaan warisan, Gono meminta istrinya untuk merawat ayahnya dengan perawatan yang sempurna agar tidak terganggu oleh kematian ayah angkatnya itu sendiri. Namun Gono tetap tidak yakin kalau dia harus dibantu oleh saudara laki-lakinya. Dia juga menyimpan rahasia tentang ayahnya bahwa ada seorang kakak perempuan yang hilang dalam peti pergi, sehingga setiap hari kelak ia dapat kembali ke rumah mereka jika sudah tak kuat lagi.\nSementara itu, Putri duyung penjaga lautan telah menghilang dari lautan. Putri duyung menolong Putri duyung mengikuti sang putri untuk berlayar keluar negeri. Perjalanan Putri duyung terhambat ketika perahu nelayan berlabuh di Tanjung Harapan bersama teman wanitanya. Setelah sampai di Tanjung Kecil, kapal tersebut akhirnya tenggelam saat badai melanda pantai.",
+  "artifacts": {
+    "character_image": "outputs\\scenario_1\\character.png",
+    "scene_image": "outputs\\scenario_1\\scene.png",
+    "storybook_page": "outputs\\scenario_1\\storybook_page.png"
+  },
+  "performance_and_latency": {
+    "total_duration_seconds": 7.1744,
+    "stages": {
+      "privacy_and_safety": {
+        "stage": "Stage_1_Child_Safety_Validation",
+        "duration_seconds": 0.0007,
+        "start_ram_mb": 866.16,
+        "end_ram_mb": 866.16,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "prompt_building": {
+        "stage": "Stage_2_Prompt_Building",
+        "duration_seconds": 0.0,
+        "start_ram_mb": 866.16,
+        "end_ram_mb": 866.16,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "narrative_generation": {
+        "stage": "Stage_3_GPT2_Narrative_Generation",
+        "duration_seconds": 6.7828,
+        "start_ram_mb": 866.16,
+        "end_ram_mb": 880.54,
+        "ram_delta_mb": 14.38,
+        "peak_vram_mb": 0.0
+      },
+      "narrative_evaluation": {
+        "stage": "Stage_4_Narrative_Evaluation",
+        "duration_seconds": 0.2323,
+        "start_ram_mb": 880.54,
+        "end_ram_mb": 954.35,
+        "ram_delta_mb": 73.81,
+        "peak_vram_mb": 0.0
+      },
+      "attribute_extraction": {
+        "stage": "Stage_5_Attribute_Extraction",
+        "duration_seconds": 0.0002,
+        "start_ram_mb": 954.35,
+        "end_ram_mb": 954.35,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "visual_synthesis": {
+        "stage": "Stage_6_Visual_Synthesis",
+        "duration_seconds": 0.1574,
+        "start_ram_mb": 954.35,
+        "end_ram_mb": 966.75,
+        "ram_delta_mb": 12.4,
+        "peak_vram_mb": 0.0
+      },
+      "ethical_audit": {
+        "stage": "Stage_7_Ethical_Bias_Audit",
+        "duration_seconds": 0.001,
+        "start_ram_mb": 966.75,
+        "end_ram_mb": 966.76,
+        "ram_delta_mb": 0.01,
+        "peak_vram_mb": 0.0
+      }
+    }
+  },
+  "narrative_metrics": {
+    "word_count": 152,
+    "distinct_1": 0.8158,
+    "distinct_2": 0.9735,
+    "repetition_rate": 0.0,
+    "perplexity": 19.387,
+    "profile_alignment": {
+      "alignment_score": 60.0,
+      "name_matched": true,
+      "theme_matched_terms": [
+        "hati"
+      ],
+      "theme_match_ratio": 0.33,
+      "genre_matched_terms": [],
+      "culture_matched": true
+    },
+    "dataset_overlap": {
+      "overlap_4gram_pct": 0.67,
+      "matched_4gram_count": 1,
+      "total_gen_4grams": 149,
+      "overlap_6gram_pct": 0.0,
+      "matched_6gram_count": 0,
+      "total_gen_6grams": 147,
+      "is_novel": true
+    },
+    "manual_rubric_template": {
+      "koherensi_alur (1-5)": null,
+      "kesesuaian_profil_anak (1-5)": null,
+      "kreativitas_narasi (1-5)": null,
+      "nilai_moral_dan_edukasi (1-5)": null,
+      "kesesuaian_usia (1-5)": null
+    }
+  },
+  "ethical_audit": {
+    "narrative": {
+      "fairness_score": 100.0,
+      "is_fair": true,
+      "bias_flags": [],
+      "inclusive_cues": [
+        "Karakterisasi inklusif (compassionate_male): '\\bmerawat\\b'",
+        "Karakterisasi inklusif (compassionate_male): '\\bmenolong\\b'"
+      ],
+      "stereotypes_detected": 0,
+      "recommendation": "Narasi seimbang dan inklusif."
+    },
+    "visual": {
+      "visual_fairness_score": 100.0,
+      "warnings": [],
+      "is_inclusive": true
+    },
+    "sanitization_applied": true,
+    "sanitized_replacements": [
+      "mati"
+    ]
+  }
+}

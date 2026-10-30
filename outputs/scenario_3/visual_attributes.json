@@ -1,0 +1,29 @@
+{
+  "character": {
+    "name": "Kancil",
+    "hair_color": "hitam",
+    "clothing_color": "hijau",
+    "clothing_style": "rompi petualang",
+    "expression": "ceria & tersenyum"
+  },
+  "scene": {
+    "location": "hutan tropis nusantara",
+    "background_elements": [
+      "kanopi hijau lebat",
+      "sulur tanaman hutan",
+      "aliran air jernih"
+    ],
+    "lighting_atmosphere": "mentari pagi cerah"
+  },
+  "detection_log": {
+    "detected_count": 2,
+    "defaulted_count": 4,
+    "detection_ratio": 0.33,
+    "notes": [
+      "Warna rambut tidak terdeteksi eksplisit; menggunakan default 'hitam'.",
+      "Warna pakaian tidak terdeteksi di teks; menggunakan default genre 'hijau'.",
+      "Gaya pakaian tidak terdeteksi; menggunakan default 'rompi petualang'.",
+      "Suasana pencahayaan tidak terdeteksi; menggunakan default 'mentari pagi cerah'."
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "page": 1,
+    "total_pages": 3,
+    "location": "aliran sungai jernih dengan pepohonan willow",
+    "time_and_weather": "sore hari sejuk menenangkan",
+    "atmosphere": "penuh canda tawa dan kehangatan keluarga",
+    "characters_present": [
+      {
+        "name": "AnonChild_25b6a60d",
+        "role": "tokoh_utama",
+        "character_type": "anak",
+        "action": "mengamati alam dengan pandangan berbinar",
+        "expression": "ceria dan penuh rasa ingin tahu",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "rambut pendek rapi hitam, celana berpenjepit, senyum ramah",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "perahu kayu cokelat",
+      "buket bunga liar"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  {
+    "page": 2,
+    "total_pages": 3,
+    "location": "jalan setapak desa yang damai dan asri",
+    "time_and_weather": "sore hari sejuk menenangkan",
+    "atmosphere": "penuh canda tawa dan kehangatan keluarga",
+    "characters_present": [
+      {
+        "name": "AnonChild_25b6a60d",
+        "role": "tokoh_utama",
+        "character_type": "anak",
+        "action": "menatap keindahan alam sekitar dengan takjub",
+        "expression": "terpesona",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "rambut pendek rapi hitam, celana berpenjepit, senyum ramah",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      },
+      {
+        "name": "Siti",
+        "role": "pendukung",
+        "character_type": "anak",
+        "action": "menemani sahabat dengan setia",
+        "expression": "ceria dan penuh rasa ingin tahu",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "clothing": "gaun merah muda, rambut kepang pirang",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "elemen alam sekitar (batu sungai & dedaunan)"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  {
+    "page": 3,
+    "total_pages": 3,
+    "location": "hutan rimba hijau yang asri dan rindang",
+    "time_and_weather": "malam bertabur bintang",
+    "atmosphere": "ceria dan penuh sukacita",
+    "characters_present": [
+      {
+        "name": "AnonChild_25b6a60d",
+        "role": "tokoh_utama",
+        "character_type": "anak",
+        "action": "menatap keindahan alam sekitar dengan takjub",
+        "expression": "terpesona",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "rambut pendek rapi hitam, celana berpenjepit, senyum ramah",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      },
+      {
+        "name": "Siti",
+        "role": "pendukung",
+        "character_type": "anak",
+        "action": "menemani sahabat dengan setia",
+        "expression": "ceria dan penuh rasa ingin tahu",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "clothing": "gaun merah muda, rambut kepang pirang",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "elemen alam sekitar (batu sungai & dedaunan)"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  }
+]

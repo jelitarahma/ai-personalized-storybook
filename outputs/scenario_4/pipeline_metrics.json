@@ -1,0 +1,131 @@
+{
+  "profile": {
+    "name": "Sari",
+    "age": 9,
+    "genre": "Sains & Fiksi Ilmiah",
+    "theme": "Rasa Ingin Tahu dan Eksplorasi Antariksa",
+    "cultural_background": "Minangkabau",
+    "character_preference": "seorang astrofisikawan cilik berjaket biru"
+  },
+  "story": "Di sebuah desa yang damai di Nusantara, hiduplah seorang astrofisikawan cilik berjaket biru bernama Sari. Sari adalah anak berusia 9 tahun yang sangat ceria dan berhati mulia. Ia memiliki hobi membaca buku dengan tulisan-tulisan ilmiah maupun sejarah serta cerita wayang Jawa.\nDia hanya dua orang kakak beradik pada hari pernikahannya. Saat kedua kakaknya itu hendak mengambil buah jambu untuk dijadikan hiasan kepala, ia bertemu Sari ; namun karena sari tahu bahwa akan aman dari serangan sakit perutnya, maka mereka pun segera mencari pasangan masing-masing dalam satu rumah susun. Setelah menemukan seseorang suruhan dewi padi (kini awet muda) saat sedang bermain petak umpet kosong tanpa penutup kepala, Sari kemudian bersedia menjadi istri Sari. Walaupun Sari telah menerima ilmu hitam hasil ciptaannya tersebut, Sari enggan menikahinya. Namun usaha Sari tak pernah sia-sia karena ketiga adiknya tidak bisa berbuat apa – ya karena kehendaknya sendiri.",
+  "artifacts": {
+    "character_image": "outputs\\scenario_4\\character.png",
+    "scene_image": "outputs\\scenario_4\\scene.png",
+    "storybook_page": "outputs\\scenario_4\\storybook_page.png"
+  },
+  "performance_and_latency": {
+    "total_duration_seconds": 9.2608,
+    "stages": {
+      "privacy_and_safety": {
+        "stage": "Stage_1_Child_Safety_Validation",
+        "duration_seconds": 0.0001,
+        "start_ram_mb": 964.29,
+        "end_ram_mb": 964.29,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "prompt_building": {
+        "stage": "Stage_2_Prompt_Building",
+        "duration_seconds": 0.0,
+        "start_ram_mb": 964.29,
+        "end_ram_mb": 964.29,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "narrative_generation": {
+        "stage": "Stage_3_GPT2_Narrative_Generation",
+        "duration_seconds": 8.8709,
+        "start_ram_mb": 964.29,
+        "end_ram_mb": 961.85,
+        "ram_delta_mb": -2.44,
+        "peak_vram_mb": 0.0
+      },
+      "narrative_evaluation": {
+        "stage": "Stage_4_Narrative_Evaluation",
+        "duration_seconds": 0.3218,
+        "start_ram_mb": 961.85,
+        "end_ram_mb": 962.3,
+        "ram_delta_mb": 0.45,
+        "peak_vram_mb": 0.0
+      },
+      "attribute_extraction": {
+        "stage": "Stage_5_Attribute_Extraction",
+        "duration_seconds": 0.0004,
+        "start_ram_mb": 962.3,
+        "end_ram_mb": 962.3,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "visual_synthesis": {
+        "stage": "Stage_6_Visual_Synthesis",
+        "duration_seconds": 0.0668,
+        "start_ram_mb": 962.3,
+        "end_ram_mb": 967.16,
+        "ram_delta_mb": 4.86,
+        "peak_vram_mb": 0.0
+      },
+      "ethical_audit": {
+        "stage": "Stage_7_Ethical_Bias_Audit",
+        "duration_seconds": 0.0008,
+        "start_ram_mb": 967.16,
+        "end_ram_mb": 967.16,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      }
+    }
+  },
+  "narrative_metrics": {
+    "word_count": 143,
+    "distinct_1": 0.8671,
+    "distinct_2": 1.0,
+    "repetition_rate": 0.0,
+    "perplexity": 28.427,
+    "profile_alignment": {
+      "alignment_score": 52.67,
+      "name_matched": true,
+      "theme_matched_terms": [
+        "tahu"
+      ],
+      "theme_match_ratio": 0.2,
+      "genre_matched_terms": [
+        "ilmiah"
+      ],
+      "culture_matched": false
+    },
+    "dataset_overlap": {
+      "overlap_4gram_pct": 0.0,
+      "matched_4gram_count": 0,
+      "total_gen_4grams": 140,
+      "overlap_6gram_pct": 0.0,
+      "matched_6gram_count": 0,
+      "total_gen_6grams": 138,
+      "is_novel": true
+    },
+    "manual_rubric_template": {
+      "koherensi_alur (1-5)": null,
+      "kesesuaian_profil_anak (1-5)": null,
+      "kreativitas_narasi (1-5)": null,
+      "nilai_moral_dan_edukasi (1-5)": null,
+      "kesesuaian_usia (1-5)": null
+    }
+  },
+  "ethical_audit": {
+    "narrative": {
+      "fairness_score": 85.0,
+      "is_fair": false,
+      "bias_flags": [
+        "Latar budaya 'Minangkabau' belum menampilkan pengayaan konteks kearifan lokal."
+      ],
+      "inclusive_cues": [],
+      "stereotypes_detected": 1,
+      "recommendation": "Disarankan penyesuaian prompt netral-gender untuk menyeimbangkan karakter."
+    },
+    "visual": {
+      "visual_fairness_score": 100.0,
+      "warnings": [],
+      "is_inclusive": true
+    },
+    "sanitization_applied": false,
+    "sanitized_replacements": []
+  }
+}

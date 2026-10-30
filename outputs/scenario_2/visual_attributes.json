@@ -1,0 +1,27 @@
+{
+  "character": {
+    "name": "Budi",
+    "hair_color": "hitam",
+    "clothing_color": "cokelat",
+    "clothing_style": "rompi petualang",
+    "expression": "ceria & tersenyum"
+  },
+  "scene": {
+    "location": "hutan tropis nusantara",
+    "background_elements": [
+      "kanopi hijau lebat",
+      "sulur tanaman hutan",
+      "aliran air jernih"
+    ],
+    "lighting_atmosphere": "mentari pagi cerah"
+  },
+  "detection_log": {
+    "detected_count": 4,
+    "defaulted_count": 2,
+    "detection_ratio": 0.67,
+    "notes": [
+      "Warna rambut tidak terdeteksi eksplisit; menggunakan default 'hitam'.",
+      "Suasana pencahayaan tidak terdeteksi; menggunakan default 'mentari pagi cerah'."
+    ]
+  }
+}

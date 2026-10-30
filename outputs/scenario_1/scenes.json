@@ -1,0 +1,117 @@
+[
+  {
+    "page": 1,
+    "total_pages": 3,
+    "location": "hamparan perbukitan hijau berkabut lembut",
+    "time_and_weather": "pagi cerah berawan menyenangkan",
+    "atmosphere": "damai dan penuh keajaiban",
+    "characters_present": [
+      {
+        "name": "AnonChild_d8a4389f",
+        "role": "tokoh_utama",
+        "character_type": "hewan",
+        "action": "mengamati alam dengan pandangan berbinar",
+        "expression": "ceria dan penuh rasa ingin tahu",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "sisik hijau lembut, sayap mungil, senyuman hangat",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "buket bunga liar"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  {
+    "page": 2,
+    "total_pages": 3,
+    "location": "hamparan perbukitan hijau berkabut lembut",
+    "time_and_weather": "pagi cerah berawan menyenangkan",
+    "atmosphere": "damai dan penuh keajaiban",
+    "characters_present": [
+      {
+        "name": "AnonChild_d8a4389f",
+        "role": "tokoh_utama",
+        "character_type": "hewan",
+        "action": "menemukan hal istimewa di balik semak bunga",
+        "expression": "terkejut gembira",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "sisik hijau lembut, sayap mungil, senyuman hangat",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      },
+      {
+        "name": "Mimi",
+        "role": "pendukung",
+        "character_type": "hewan",
+        "action": "menemani sahabat dengan setia",
+        "expression": "ceria dan penuh rasa ingin tahu",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "clothing": "kelinci putih berbulu halus",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "buket bunga liar"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  {
+    "page": 3,
+    "total_pages": 3,
+    "location": "puncak bukit hijau berkabut lembut dengan bunga matahari",
+    "time_and_weather": "pagi cerah berawan menyenangkan",
+    "atmosphere": "damai dan penuh keajaiban",
+    "characters_present": [
+      {
+        "name": "AnonChild_d8a4389f",
+        "role": "tokoh_utama",
+        "character_type": "hewan",
+        "action": "tersenyum manis menikmati suasana indah",
+        "expression": "hangat dan bahagia",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "sisik hijau lembut, sayap mungil, senyuman hangat",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      },
+      {
+        "name": "Mimi",
+        "role": "pendukung",
+        "character_type": "hewan",
+        "action": "menemani sahabat dengan setia",
+        "expression": "ceria dan penuh rasa ingin tahu",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "clothing": "kelinci putih berbulu halus",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "elemen alam sekitar (batu sungai & dedaunan)"
+    ],
+    "uncertainty_notes": [
+      "Lokasi spesifik tidak eksplisit di teks; menggunakan pengaturan latar dunia."
+    ],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  }
+]

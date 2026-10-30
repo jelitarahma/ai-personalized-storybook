@@ -1,0 +1,132 @@
+{
+  "profile": {
+    "name": "Wayan",
+    "age": 8,
+    "genre": "Kehidupan Sehari-hari & Persahabatan",
+    "theme": "Kerja Sama dan Keragaman Budaya",
+    "cultural_background": "Bali",
+    "character_preference": "seorang perajin layang-layang tradisional ceria"
+  },
+  "story": "Di sebuah desa yang damai di Nusantara, hiduplah seorang perajin layang-layang tradisional ceria bernama Wayan. Wayan adalah anak berusia 8 tahun yang sangat ceria dan berhati mulia. Ia hanya bisa tersenyum dengan kata \"ti ?\" atau dalam bahasa Indonesia berarti &apos; orang tua sejati \".\nDiceritakan bahwa kehidupan Wayan dimulai saat ia bekerja di sebuah perusahaan batik setempat. Dia menceritakan mimpinya menjadi penari terkenal karena kepolosannya di bidang tari klasik yang dilihatnya sebagai hobi masa kecilnya. Setelah tiga kali gagal dalam ujian masuk sekolah dasar di Tabanan, Wayan pun memutuskan untuk pergi ke Jakarta untuk belajar Tari Klasik (Pentas Seni kontemporer). Sejak itulah Wayan mengabdikan dirinya kepada sang pencipta tarian klasik di desanya. Bersama sejumlah teman, kedua temannya inilah Nyoman Rai mampu mewujudkan impiannya tersebut.",
+  "artifacts": {
+    "character_image": "outputs\\scenario_5\\character.png",
+    "scene_image": "outputs\\scenario_5\\scene.png",
+    "storybook_page": "outputs\\scenario_5\\storybook_page.png"
+  },
+  "performance_and_latency": {
+    "total_duration_seconds": 8.4259,
+    "stages": {
+      "privacy_and_safety": {
+        "stage": "Stage_1_Child_Safety_Validation",
+        "duration_seconds": 0.0001,
+        "start_ram_mb": 964.71,
+        "end_ram_mb": 964.71,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "prompt_building": {
+        "stage": "Stage_2_Prompt_Building",
+        "duration_seconds": 0.0,
+        "start_ram_mb": 964.71,
+        "end_ram_mb": 964.71,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "narrative_generation": {
+        "stage": "Stage_3_GPT2_Narrative_Generation",
+        "duration_seconds": 8.0433,
+        "start_ram_mb": 964.71,
+        "end_ram_mb": 962.6,
+        "ram_delta_mb": -2.11,
+        "peak_vram_mb": 0.0
+      },
+      "narrative_evaluation": {
+        "stage": "Stage_4_Narrative_Evaluation",
+        "duration_seconds": 0.2923,
+        "start_ram_mb": 962.6,
+        "end_ram_mb": 993.69,
+        "ram_delta_mb": 31.09,
+        "peak_vram_mb": 0.0
+      },
+      "attribute_extraction": {
+        "stage": "Stage_5_Attribute_Extraction",
+        "duration_seconds": 0.0003,
+        "start_ram_mb": 993.69,
+        "end_ram_mb": 993.69,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "visual_synthesis": {
+        "stage": "Stage_6_Visual_Synthesis",
+        "duration_seconds": 0.0884,
+        "start_ram_mb": 993.69,
+        "end_ram_mb": 997.78,
+        "ram_delta_mb": 4.09,
+        "peak_vram_mb": 0.0
+      },
+      "ethical_audit": {
+        "stage": "Stage_7_Ethical_Bias_Audit",
+        "duration_seconds": 0.0015,
+        "start_ram_mb": 997.78,
+        "end_ram_mb": 997.78,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      }
+    }
+  },
+  "narrative_metrics": {
+    "word_count": 124,
+    "distinct_1": 0.8387,
+    "distinct_2": 0.9837,
+    "repetition_rate": 0.0,
+    "perplexity": 20.032,
+    "profile_alignment": {
+      "alignment_score": 60.0,
+      "name_matched": true,
+      "theme_matched_terms": [
+        "kerja",
+        "sama"
+      ],
+      "theme_match_ratio": 0.5,
+      "genre_matched_terms": [
+        "kehidupan"
+      ],
+      "culture_matched": false
+    },
+    "dataset_overlap": {
+      "overlap_4gram_pct": 0.0,
+      "matched_4gram_count": 0,
+      "total_gen_4grams": 121,
+      "overlap_6gram_pct": 0.0,
+      "matched_6gram_count": 0,
+      "total_gen_6grams": 119,
+      "is_novel": true
+    },
+    "manual_rubric_template": {
+      "koherensi_alur (1-5)": null,
+      "kesesuaian_profil_anak (1-5)": null,
+      "kreativitas_narasi (1-5)": null,
+      "nilai_moral_dan_edukasi (1-5)": null,
+      "kesesuaian_usia (1-5)": null
+    }
+  },
+  "ethical_audit": {
+    "narrative": {
+      "fairness_score": 85.0,
+      "is_fair": false,
+      "bias_flags": [
+        "Latar budaya 'Bali' belum menampilkan pengayaan konteks kearifan lokal."
+      ],
+      "inclusive_cues": [],
+      "stereotypes_detected": 1,
+      "recommendation": "Disarankan penyesuaian prompt netral-gender untuk menyeimbangkan karakter."
+    },
+    "visual": {
+      "visual_fairness_score": 100.0,
+      "warnings": [],
+      "is_inclusive": true
+    },
+    "sanitization_applied": false,
+    "sanitized_replacements": []
+  }
+}

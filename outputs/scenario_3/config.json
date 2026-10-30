@@ -1,0 +1,45 @@
+{
+  "scenario_id": "scenario_3",
+  "category": "Kehidupan Sehari-hari",
+  "premise": "Budi dan adiknya bermain perahu kertas di halaman rumah tepi parit desa saat cuaca cerah.",
+  "target_age": 8,
+  "moral_theme": "Kerjasama dan kehangatan persaudaraan",
+  "character_registry": [
+    {
+      "name": "AnonChild_25b6a60d",
+      "role": "tokoh_utama",
+      "character_type": "anak",
+      "gender": "laki-laki",
+      "age_approx": 8,
+      "fur_or_skin": "cerah",
+      "hair_style": "pendek rapi",
+      "hair_color": "hitam",
+      "clothing": "rambut pendek rapi hitam, celana berpenjepit, senyum ramah",
+      "accessories": "tas selempang kecil",
+      "default_expression": "ceria dan penuh rasa ingin tahu",
+      "unique_trait": "senyuman hangat dan mata berbinar"
+    },
+    {
+      "name": "Siti",
+      "role": "pendukung",
+      "character_type": "anak",
+      "gender": "netral",
+      "age_approx": 7,
+      "fur_or_skin": "cerah",
+      "hair_style": "pendek rapi",
+      "hair_color": "hitam",
+      "clothing": "gaun merah muda, rambut kepang pirang",
+      "accessories": "tas selempang kecil",
+      "default_expression": "ceria dan penuh rasa ingin tahu",
+      "unique_trait": "senyuman hangat dan mata berbinar"
+    }
+  ],
+  "world_settings": {
+    "location": "halaman rumah klasik bercerobong hangat di pedesaan",
+    "weather": "sore hari sejuk menenangkan",
+    "atmosphere": "penuh canda tawa dan kehangatan keluarga",
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  "pseudonym_applied": "AnonChild_25b6a60d",
+  "execution_seconds": 20.96
+}

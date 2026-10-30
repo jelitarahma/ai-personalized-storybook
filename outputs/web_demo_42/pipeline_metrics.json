@@ -1,0 +1,127 @@
+{
+  "profile": {
+    "name": "jelita",
+    "age": 9,
+    "genre": "Kehidupan Sehari-hari & Persahabatan",
+    "theme": "Keberanian dan Kebaikan Hati",
+    "cultural_background": "Jawa",
+    "character_preference": "seekor naga kecil hijau yang ramah"
+  },
+  "story": "Di sebuah desa yang damai di Nusantara, hiduplah seekor naga kecil hijau yang ramah bernama jelita. jelita adalah anak berusia 9 tahun yang sangat ceria dan berhati mulia. Jelita bekerja sebagai guru SD dan Ibu Pak Hadijah bekerja sebagai penjual bunga. Ibunya tinggal bersama ayahnya (Nani Widjaja) seorang janda miskin sekaligus guru mengaji agama Nasrani agar dapat memperoleh jodohnya dengan pangeran kerajaan Pajajaran tersebut. Akhirnya sang ayah setuju untuk menikah lagi setelah mendapat restu dari ayahnya bahwa si bungsu akan menjadi raja kelak jika kelak ia menikahi putri barunya itu.",
+  "artifacts": {
+    "character_image": "outputs/web_demo_42\\character.png",
+    "scene_image": "outputs/web_demo_42\\scene.png",
+    "storybook_page": "outputs/web_demo_42\\storybook_page.png"
+  },
+  "performance_and_latency": {
+    "total_duration_seconds": 8.5897,
+    "stages": {
+      "privacy_and_safety": {
+        "stage": "Stage_1_Child_Safety_Validation",
+        "duration_seconds": 0.0029,
+        "start_ram_mb": 898.69,
+        "end_ram_mb": 898.69,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "prompt_building": {
+        "stage": "Stage_2_Prompt_Building",
+        "duration_seconds": 0.0,
+        "start_ram_mb": 898.69,
+        "end_ram_mb": 898.69,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "narrative_generation": {
+        "stage": "Stage_3_GPT2_Narrative_Generation",
+        "duration_seconds": 7.8683,
+        "start_ram_mb": 898.69,
+        "end_ram_mb": 916.47,
+        "ram_delta_mb": 17.78,
+        "peak_vram_mb": 0.0
+      },
+      "narrative_evaluation": {
+        "stage": "Stage_4_Narrative_Evaluation",
+        "duration_seconds": 0.4377,
+        "start_ram_mb": 916.47,
+        "end_ram_mb": 955.72,
+        "ram_delta_mb": 39.25,
+        "peak_vram_mb": 0.0
+      },
+      "attribute_extraction": {
+        "stage": "Stage_5_Attribute_Extraction",
+        "duration_seconds": 0.0002,
+        "start_ram_mb": 955.72,
+        "end_ram_mb": 955.72,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "visual_synthesis": {
+        "stage": "Stage_6_Visual_Synthesis",
+        "duration_seconds": 0.2784,
+        "start_ram_mb": 955.72,
+        "end_ram_mb": 962.9,
+        "ram_delta_mb": 7.18,
+        "peak_vram_mb": 0.0
+      },
+      "ethical_audit": {
+        "stage": "Stage_7_Ethical_Bias_Audit",
+        "duration_seconds": 0.0022,
+        "start_ram_mb": 962.9,
+        "end_ram_mb": 962.9,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      }
+    }
+  },
+  "narrative_metrics": {
+    "word_count": 90,
+    "distinct_1": 0.8778,
+    "distinct_2": 0.9888,
+    "repetition_rate": 0.0,
+    "perplexity": 26.453,
+    "profile_alignment": {
+      "alignment_score": 50.0,
+      "name_matched": true,
+      "theme_matched_terms": [
+        "hati"
+      ],
+      "theme_match_ratio": 0.33,
+      "genre_matched_terms": [],
+      "culture_matched": false
+    },
+    "dataset_overlap": {
+      "overlap_4gram_pct": 1.15,
+      "matched_4gram_count": 1,
+      "total_gen_4grams": 87,
+      "overlap_6gram_pct": 0.0,
+      "matched_6gram_count": 0,
+      "total_gen_6grams": 85,
+      "is_novel": true
+    },
+    "manual_rubric_template": {
+      "koherensi_alur (1-5)": null,
+      "kesesuaian_profil_anak (1-5)": null,
+      "kreativitas_narasi (1-5)": null,
+      "nilai_moral_dan_edukasi (1-5)": null,
+      "kesesuaian_usia (1-5)": null
+    }
+  },
+  "ethical_audit": {
+    "narrative": {
+      "fairness_score": 100.0,
+      "is_fair": true,
+      "bias_flags": [],
+      "inclusive_cues": [],
+      "stereotypes_detected": 0,
+      "recommendation": "Narasi seimbang dan inklusif."
+    },
+    "visual": {
+      "visual_fairness_score": 100.0,
+      "warnings": [],
+      "is_inclusive": true
+    },
+    "sanitization_applied": false,
+    "sanitized_replacements": []
+  }
+}

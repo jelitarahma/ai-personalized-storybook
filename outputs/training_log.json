@@ -1,0 +1,10 @@
+{
+  "model_name": "cahya/gpt2-small-indonesian-522M",
+  "epochs": 1,
+  "train_loss": 6.293653106689453,
+  "train_perplexity": 541.1265,
+  "eval_loss": 4.4138383865356445,
+  "eval_perplexity": 82.5859,
+  "total_flos": 587907072000.0,
+  "train_runtime_seconds": 10.67
+}

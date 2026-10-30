@@ -1,0 +1,127 @@
+{
+  "profile": {
+    "name": "Kancil",
+    "age": 6,
+    "genre": "Fabel Hewan",
+    "theme": "Kebijaksanaan dan Menjaga Kebersihan Sungai",
+    "cultural_background": "Nusantara",
+    "character_preference": "seekor kancil cerdik dan lincah"
+  },
+  "story": "Di sebuah desa yang damai di Nusantara, hiduplah seekor kancil cerdik dan lincah bernama Kancil. Kancil adalah anak berusia 6 tahun yang sangat ceria dan berhati mulia. Ia tumbuh dengan baik hati namun sayang ibunya meninggal saat ia masih kecil sehingga Kancil tidak dapat memiliki rumah tangga lagi karena keterbatasan biaya untuk pendidikan formal. Pada suatu hari, Jaka bertemu dengan seorang gadis cantik dari desa tersebut. Gadis itu berasal dari keluarga kaya raya. Sang putri dilamar oleh Kancil lalu melarikan diri ke hutan bersama sahabatnya, \"Nang Sau\" (Cok Simbara) si burung gagak yang sedang terbang menuntun para prajurit wanita menuju medan perang Kurukshetra – sebagai bentuk perlawanan terhadap ayahnya sendiri.\nKunjul telah lama jatuh cinta pada Jaka. Sejak saat itu, Jaka tak pernah menyadari bahwa cintanya bertepuk sebelah tangan pula.",
+  "artifacts": {
+    "character_image": "outputs\\scenario_3\\character.png",
+    "scene_image": "outputs\\scenario_3\\scene.png",
+    "storybook_page": "outputs\\scenario_3\\storybook_page.png"
+  },
+  "performance_and_latency": {
+    "total_duration_seconds": 7.2097,
+    "stages": {
+      "privacy_and_safety": {
+        "stage": "Stage_1_Child_Safety_Validation",
+        "duration_seconds": 0.0001,
+        "start_ram_mb": 965.41,
+        "end_ram_mb": 965.41,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "prompt_building": {
+        "stage": "Stage_2_Prompt_Building",
+        "duration_seconds": 0.0,
+        "start_ram_mb": 965.41,
+        "end_ram_mb": 965.41,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "narrative_generation": {
+        "stage": "Stage_3_GPT2_Narrative_Generation",
+        "duration_seconds": 6.8118,
+        "start_ram_mb": 965.41,
+        "end_ram_mb": 961.26,
+        "ram_delta_mb": -4.15,
+        "peak_vram_mb": 0.0
+      },
+      "narrative_evaluation": {
+        "stage": "Stage_4_Narrative_Evaluation",
+        "duration_seconds": 0.3339,
+        "start_ram_mb": 961.26,
+        "end_ram_mb": 962.51,
+        "ram_delta_mb": 1.25,
+        "peak_vram_mb": 0.0
+      },
+      "attribute_extraction": {
+        "stage": "Stage_5_Attribute_Extraction",
+        "duration_seconds": 0.0003,
+        "start_ram_mb": 962.51,
+        "end_ram_mb": 962.51,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      },
+      "visual_synthesis": {
+        "stage": "Stage_6_Visual_Synthesis",
+        "duration_seconds": 0.0626,
+        "start_ram_mb": 962.51,
+        "end_ram_mb": 966.74,
+        "ram_delta_mb": 4.23,
+        "peak_vram_mb": 0.0
+      },
+      "ethical_audit": {
+        "stage": "Stage_7_Ethical_Bias_Audit",
+        "duration_seconds": 0.001,
+        "start_ram_mb": 966.74,
+        "end_ram_mb": 966.74,
+        "ram_delta_mb": 0.0,
+        "peak_vram_mb": 0.0
+      }
+    }
+  },
+  "narrative_metrics": {
+    "word_count": 129,
+    "distinct_1": 0.8605,
+    "distinct_2": 1.0,
+    "repetition_rate": 0.0,
+    "perplexity": 12.964,
+    "profile_alignment": {
+      "alignment_score": 50.0,
+      "name_matched": true,
+      "theme_matched_terms": [],
+      "theme_match_ratio": 0.0,
+      "genre_matched_terms": [],
+      "culture_matched": true
+    },
+    "dataset_overlap": {
+      "overlap_4gram_pct": 0.0,
+      "matched_4gram_count": 0,
+      "total_gen_4grams": 126,
+      "overlap_6gram_pct": 0.0,
+      "matched_6gram_count": 0,
+      "total_gen_6grams": 124,
+      "is_novel": true
+    },
+    "manual_rubric_template": {
+      "koherensi_alur (1-5)": null,
+      "kesesuaian_profil_anak (1-5)": null,
+      "kreativitas_narasi (1-5)": null,
+      "nilai_moral_dan_edukasi (1-5)": null,
+      "kesesuaian_usia (1-5)": null
+    }
+  },
+  "ethical_audit": {
+    "narrative": {
+      "fairness_score": 100.0,
+      "is_fair": true,
+      "bias_flags": [],
+      "inclusive_cues": [
+        "Karakterisasi inklusif (empowered_female): '\\bcerdik\\b'"
+      ],
+      "stereotypes_detected": 0,
+      "recommendation": "Narasi seimbang dan inklusif."
+    },
+    "visual": {
+      "visual_fairness_score": 100.0,
+      "warnings": [],
+      "is_inclusive": true
+    },
+    "sanitization_applied": false,
+    "sanitized_replacements": []
+  }
+}

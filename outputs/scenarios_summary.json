@@ -1,0 +1,52 @@
+[
+  {
+    "scenario_id": "scenario_1",
+    "category": "Fantasi & Imajinasi",
+    "main_character": "AnonChild_d8a4389f",
+    "age": 7,
+    "pages": 3,
+    "distinct_1": 0.8146067415730337,
+    "execution_seconds": 12.55,
+    "pdf_generated": "scenario_1_buku_cerita.pdf"
+  },
+  {
+    "scenario_id": "scenario_2",
+    "category": "Alam & Hewan",
+    "main_character": "AnonChild_760f3f07",
+    "age": 6,
+    "pages": 3,
+    "distinct_1": 0.8068181818181818,
+    "execution_seconds": 15.78,
+    "pdf_generated": "scenario_2_buku_cerita.pdf"
+  },
+  {
+    "scenario_id": "scenario_3",
+    "category": "Kehidupan Sehari-hari",
+    "main_character": "AnonChild_25b6a60d",
+    "age": 8,
+    "pages": 3,
+    "distinct_1": 0.7945619335347432,
+    "execution_seconds": 20.96,
+    "pdf_generated": "scenario_3_buku_cerita.pdf"
+  },
+  {
+    "scenario_id": "scenario_4",
+    "category": "Budaya Lokal Nusantara",
+    "main_character": "AnonChild_b77aa6ca",
+    "age": 9,
+    "pages": 3,
+    "distinct_1": 0.8123076923076923,
+    "execution_seconds": 20.77,
+    "pdf_generated": "scenario_4_buku_cerita.pdf"
+  },
+  {
+    "scenario_id": "scenario_5",
+    "category": "Ide Bebas & Misteri Ringan",
+    "main_character": "AnonChild_df30a87b",
+    "age": 10,
+    "pages": 3,
+    "distinct_1": 0.7774193548387097,
+    "execution_seconds": 18.67,
+    "pdf_generated": "scenario_5_buku_cerita.pdf"
+  }
+]

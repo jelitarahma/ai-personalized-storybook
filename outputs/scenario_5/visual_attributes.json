@@ -1,0 +1,28 @@
+{
+  "character": {
+    "name": "Wayan",
+    "hair_color": "hitam",
+    "clothing_color": "merah",
+    "clothing_style": "pakaian tradisional nusantara",
+    "expression": "ceria & tersenyum"
+  },
+  "scene": {
+    "location": "desa nusantara damai",
+    "background_elements": [
+      "rumah adat beratap kayu",
+      "jalan setapak rindang",
+      "pekarangan asri"
+    ],
+    "lighting_atmosphere": "mentari pagi cerah"
+  },
+  "detection_log": {
+    "detected_count": 3,
+    "defaulted_count": 3,
+    "detection_ratio": 0.5,
+    "notes": [
+      "Warna rambut tidak terdeteksi eksplisit; menggunakan default 'hitam'.",
+      "Warna pakaian tidak terdeteksi di teks; menggunakan default genre 'merah'.",
+      "Suasana pencahayaan tidak terdeteksi; menggunakan default 'mentari pagi cerah'."
+    ]
+  }
+}

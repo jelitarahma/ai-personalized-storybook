@@ -1,0 +1,29 @@
+{
+  "character": {
+    "name": "Gono",
+    "hair_color": "hitam",
+    "clothing_color": "merah",
+    "clothing_style": "rompi petualang",
+    "expression": "ceria & tersenyum"
+  },
+  "scene": {
+    "location": "pantai & pesisir samudra",
+    "background_elements": [
+      "pasir pantai keemasan",
+      "deburan ombak biru",
+      "pohon kelapa nyiur"
+    ],
+    "lighting_atmosphere": "mentari pagi cerah"
+  },
+  "detection_log": {
+    "detected_count": 2,
+    "defaulted_count": 4,
+    "detection_ratio": 0.33,
+    "notes": [
+      "Warna rambut tidak terdeteksi eksplisit; menggunakan default 'hitam'.",
+      "Warna pakaian tidak terdeteksi di teks; menggunakan default genre 'merah'.",
+      "Gaya pakaian tidak terdeteksi; menggunakan default 'rompi petualang'.",
+      "Suasana pencahayaan tidak terdeteksi; menggunakan default 'mentari pagi cerah'."
+    ]
+  }
+}

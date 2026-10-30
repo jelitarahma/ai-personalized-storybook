@@ -1,0 +1,85 @@
+{
+  "total_stories_analyzed": 10,
+  "obstacle_frequencies": {
+    "missing_hair_attribute": 5,
+    "missing_clothing_attribute": 7,
+    "missing_expression_attribute": 0,
+    "missing_location_attribute": 0
+  },
+  "default_fallback_rate_pct": 30.0,
+  "challenges_summary": [
+    "Cerita anak kerap memfokuskan aksi naratif daripada deskripsi fisik mendetail (misal warna rambut sering kali implisit).",
+    "Kata sifat warna kadang bersinggungan dengan elemen metafora (misal 'hati emas' bukan rambut emas).",
+    "Transisi adegan dalam satu cerita (pagi ke malam, rumah ke hutan) menuntut penentuan 'key frame' latar utama."
+  ],
+  "detailed_notes": [
+    {
+      "story_index": 2,
+      "note": "Warna rambut tidak terdeteksi eksplisit; menggunakan default 'hitam'."
+    },
+    {
+      "story_index": 2,
+      "note": "Warna pakaian tidak terdeteksi di teks; menggunakan default genre 'merah'."
+    },
+    {
+      "story_index": 2,
+      "note": "Gaya pakaian tidak terdeteksi; menggunakan default 'rompi petualang'."
+    },
+    {
+      "story_index": 2,
+      "note": "Suasana pencahayaan tidak terdeteksi; menggunakan default 'mentari pagi cerah'."
+    },
+    {
+      "story_index": 4,
+      "note": "Warna rambut tidak terdeteksi eksplisit; menggunakan default 'hitam'."
+    },
+    {
+      "story_index": 4,
+      "note": "Suasana pencahayaan tidak terdeteksi; menggunakan default 'mentari pagi cerah'."
+    },
+    {
+      "story_index": 6,
+      "note": "Warna rambut tidak terdeteksi eksplisit; menggunakan default 'hitam'."
+    },
+    {
+      "story_index": 6,
+      "note": "Warna pakaian tidak terdeteksi di teks; menggunakan default genre 'hijau'."
+    },
+    {
+      "story_index": 6,
+      "note": "Gaya pakaian tidak terdeteksi; menggunakan default 'rompi petualang'."
+    },
+    {
+      "story_index": 6,
+      "note": "Suasana pencahayaan tidak terdeteksi; menggunakan default 'mentari pagi cerah'."
+    },
+    {
+      "story_index": 8,
+      "note": "Warna rambut tidak terdeteksi eksplisit; menggunakan default 'hitam'."
+    },
+    {
+      "story_index": 8,
+      "note": "Warna pakaian tidak terdeteksi di teks; menggunakan default genre 'biru'."
+    },
+    {
+      "story_index": 8,
+      "note": "Gaya pakaian tidak terdeteksi; menggunakan default 'rompi petualang'."
+    },
+    {
+      "story_index": 8,
+      "note": "Suasana pencahayaan tidak terdeteksi; menggunakan default 'mentari pagi cerah'."
+    },
+    {
+      "story_index": 10,
+      "note": "Warna rambut tidak terdeteksi eksplisit; menggunakan default 'hitam'."
+    },
+    {
+      "story_index": 10,
+      "note": "Warna pakaian tidak terdeteksi di teks; menggunakan default genre 'merah'."
+    },
+    {
+      "story_index": 10,
+      "note": "Suasana pencahayaan tidak terdeteksi; menggunakan default 'mentari pagi cerah'."
+    }
+  ]
+}

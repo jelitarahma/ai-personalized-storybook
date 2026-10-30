@@ -1,0 +1,45 @@
+{
+  "scenario_id": "scenario_1",
+  "category": "Fantasi & Imajinasi",
+  "premise": "Kiko si naga kecil hijau yang ramah ingin membantu kawan-kawan menyalakan kembang api warna-warni di puncak bukit.",
+  "target_age": 7,
+  "moral_theme": "Kebaikan hati dan menolong sesama",
+  "character_registry": [
+    {
+      "name": "AnonChild_d8a4389f",
+      "role": "tokoh_utama",
+      "character_type": "hewan",
+      "gender": "netral",
+      "age_approx": 7,
+      "fur_or_skin": "cerah",
+      "hair_style": "pendek rapi",
+      "hair_color": "hitam",
+      "clothing": "sisik hijau lembut, sayap mungil, senyuman hangat",
+      "accessories": "tas selempang kecil",
+      "default_expression": "ceria dan penuh rasa ingin tahu",
+      "unique_trait": "senyuman hangat dan mata berbinar"
+    },
+    {
+      "name": "Mimi",
+      "role": "pendukung",
+      "character_type": "hewan",
+      "gender": "netral",
+      "age_approx": 7,
+      "fur_or_skin": "cerah",
+      "hair_style": "pendek rapi",
+      "hair_color": "hitam",
+      "clothing": "kelinci putih berbulu halus",
+      "accessories": "tas selempang kecil",
+      "default_expression": "ceria dan penuh rasa ingin tahu",
+      "unique_trait": "senyuman hangat dan mata berbinar"
+    }
+  ],
+  "world_settings": {
+    "location": "puncak bukit hijau berkabut lembut dengan bunga matahari",
+    "weather": "pagi cerah berawan menyenangkan",
+    "atmosphere": "damai dan penuh keajaiban",
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  "pseudonym_applied": "AnonChild_d8a4389f",
+  "execution_seconds": 12.55
+}

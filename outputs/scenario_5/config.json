@@ -1,0 +1,45 @@
+{
+  "scenario_id": "scenario_5",
+  "category": "Ide Bebas & Misteri Ringan",
+  "premise": "Seekor kelinci bersahaja dengan arloji saku mencari jam dinding raksasa yang tersembunyi di balik semak bunga liar.",
+  "target_age": 10,
+  "moral_theme": "Ketelitian dan menghargai waktu",
+  "character_registry": [
+    {
+      "name": "AnonChild_df30a87b",
+      "role": "tokoh_utama",
+      "character_type": "hewan",
+      "gender": "netral",
+      "age_approx": 10,
+      "fur_or_skin": "cerah",
+      "hair_style": "pendek rapi",
+      "hair_color": "hitam",
+      "clothing": "bulu putih lebat, jas rompi kuning, memegang arloji saku rantai",
+      "accessories": "tas selempang kecil",
+      "default_expression": "ceria dan penuh rasa ingin tahu",
+      "unique_trait": "senyuman hangat dan mata berbinar"
+    },
+    {
+      "name": "Domba Hitam",
+      "role": "pendukung",
+      "character_type": "hewan",
+      "gender": "netral",
+      "age_approx": 7,
+      "fur_or_skin": "cerah",
+      "hair_style": "pendek rapi",
+      "hair_color": "hitam",
+      "clothing": "bulu wol hitam lebat yang hangat",
+      "accessories": "tas selempang kecil",
+      "default_expression": "ceria dan penuh rasa ingin tahu",
+      "unique_trait": "senyuman hangat dan mata berbinar"
+    }
+  ],
+  "world_settings": {
+    "location": "kebun bunga liar bersemak rimbun",
+    "weather": "senja keemasan temaram",
+    "atmosphere": "penasaran dan penuh petualangan",
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  "pseudonym_applied": "AnonChild_df30a87b",
+  "execution_seconds": 18.67
+}

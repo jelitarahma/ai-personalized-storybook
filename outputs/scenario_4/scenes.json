@@ -1,0 +1,89 @@
+[
+  {
+    "page": 1,
+    "total_pages": 3,
+    "location": "aliran sungai jernih dengan pepohonan willow",
+    "time_and_weather": "malam bertabur bintang",
+    "atmosphere": "teduh dan memikat",
+    "characters_present": [
+      {
+        "name": "AnonChild_b77aa6ca",
+        "role": "tokoh_utama",
+        "character_type": "anak",
+        "action": "membaca buku dongeng dengan senyuman lebar",
+        "expression": "penasaran dan tenang",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "gaun sederhana bersahaja, membawa buku dongeng bersampul kuning",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "elemen alam sekitar (batu sungai & dedaunan)"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  {
+    "page": 2,
+    "total_pages": 3,
+    "location": "hutan rimba hijau yang asri dan rindang",
+    "time_and_weather": "malam bertabur bintang",
+    "atmosphere": "teduh dan memikat",
+    "characters_present": [
+      {
+        "name": "AnonChild_b77aa6ca",
+        "role": "tokoh_utama",
+        "character_type": "anak",
+        "action": "mengamati alam dengan pandangan berbinar",
+        "expression": "ceria dan penuh rasa ingin tahu",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "gaun sederhana bersahaja, membawa buku dongeng bersampul kuning",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "kereta antik merah"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  {
+    "page": 3,
+    "total_pages": 3,
+    "location": "halaman depan rumah klasik bercerobong hangat",
+    "time_and_weather": "malam bertabur bintang",
+    "atmosphere": "teduh dan memikat",
+    "characters_present": [
+      {
+        "name": "AnonChild_b77aa6ca",
+        "role": "tokoh_utama",
+        "character_type": "anak",
+        "action": "tersenyum manis menikmati suasana indah",
+        "expression": "hangat dan bahagia",
+        "physical_attributes": {
+          "fur_or_skin": "cerah",
+          "hair_style": "pendek rapi",
+          "hair_color": "hitam",
+          "clothing": "gaun sederhana bersahaja, membawa buku dongeng bersampul kuning",
+          "accessories": "tas selempang kecil",
+          "unique_trait": "senyuman hangat dan mata berbinar"
+        }
+      }
+    ],
+    "key_props": [
+      "elemen alam sekitar (batu sungai & dedaunan)"
+    ],
+    "uncertainty_notes": [],
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  }
+]

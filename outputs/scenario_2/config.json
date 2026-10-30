@@ -1,0 +1,45 @@
+{
+  "scenario_id": "scenario_2",
+  "category": "Alam & Hewan",
+  "premise": "Katak kecil petualang mendayung perahu kayu menyusuri sungai jernih untuk mengantarkan buah beri kepada sahabatnya.",
+  "target_age": 6,
+  "moral_theme": "Kesabaran dan indahnya persahabatan sejati",
+  "character_registry": [
+    {
+      "name": "AnonChild_760f3f07",
+      "role": "tokoh_utama",
+      "character_type": "hewan",
+      "gender": "netral",
+      "age_approx": 6,
+      "fur_or_skin": "cerah",
+      "hair_style": "pendek rapi",
+      "hair_color": "hitam",
+      "clothing": "tubuh hijau bintik ramah, topi baret merah, rompi kotak-kotak",
+      "accessories": "tas selempang kecil",
+      "default_expression": "ceria dan penuh rasa ingin tahu",
+      "unique_trait": "senyuman hangat dan mata berbinar"
+    },
+    {
+      "name": "Domba Putih",
+      "role": "pendukung",
+      "character_type": "hewan",
+      "gender": "netral",
+      "age_approx": 7,
+      "fur_or_skin": "cerah",
+      "hair_style": "pendek rapi",
+      "hair_color": "hitam",
+      "clothing": "bulu seputih awan, syal oranye",
+      "accessories": "tas selempang kecil",
+      "default_expression": "ceria dan penuh rasa ingin tahu",
+      "unique_trait": "senyuman hangat dan mata berbinar"
+    }
+  ],
+  "world_settings": {
+    "location": "aliran sungai jernih dengan pepohonan willow",
+    "weather": "siang hari hangat dengan riak air tenang",
+    "atmosphere": "riang dan damai",
+    "visual_style": "Watercolor Storybook Ilustrasi Halus"
+  },
+  "pseudonym_applied": "AnonChild_760f3f07",
+  "execution_seconds": 15.78
+}

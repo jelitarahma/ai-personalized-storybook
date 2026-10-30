@@ -1,0 +1,25 @@
+# Python / Virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
+
+# Model checkpoints & heavy caches
+models/checkpoints/
+models/cache/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Streamlit config / cache
+.streamlit/
+
+# OS specific
+.DS_Store
+Thumbs.db
+

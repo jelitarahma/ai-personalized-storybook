@@ -1,0 +1,30 @@
+# ==============================================================================
+# AI-Personalized-Storybook Requirements
+# Compatible with Python 3.9 - 3.11, Google Colab (CPU & T4 GPU), and Local Windows/Linux/macOS
+# ==============================================================================
+
+# Deep Learning Core & PyTorch
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Hugging Face Ecosystem for Indonesian GPT-2
+transformers>=4.30.0
+datasets>=2.14.0
+accelerate>=0.20.0
+
+# Scientific Computing & Data Manipulation
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Visualization & Image Generation (VAE / DCGAN / Storybook Layout)
+matplotlib>=3.7.0
+pillow>=9.5.0
+reportlab>=4.0.0
+
+# System Profiling & Benchmarking (Module C Performance)
+psutil>=5.9.0
+
+# Interactive Web Application Demo
+streamlit>=1.25.0
+
